@@ -1,0 +1,4 @@
+Este es el fichero2
+esta es la segunda linea
+esta es la tercera linea
+fin
